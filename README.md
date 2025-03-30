@@ -10,7 +10,7 @@ Understand the impact of COVID-19 by analyzing key metrics such as total deaths,
 
 Identify patterns across different regions and track pandemic progression.
 
-Assess vaccination efforts worldwide using cumulative data.
+Assess vaccination efforts worldwide using cumulative data
 
 Prepare data for visualization by creating a structured SQL view.
 
