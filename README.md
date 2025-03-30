@@ -51,12 +51,11 @@ This project highlights the power of data analytics in understanding global heal
 Next Steps
 
 
-email address-Neekaigbaradornubari@gmail.com
-phone- 08137689674
-
 Develop interactive Tableau dashboards to visually represent key findings.
 
 Expand the dataset with more recent COVID-19 statistics for continuous monitoring.
 
 Apply advanced analytical techniques to uncover deeper insights into pandemic trends.
 
+email address-Neekaigbaradornubari@gmail.com
+phone- 08137689674
